@@ -5,13 +5,13 @@
 
 :root {
   font-family: "Alice", serif;
-  line-height: 150%;
   color: #573A37;
 }
 body{
   background-image: url(assets/bg-image.svg);
   background-size: cover;
   background-color: #573824;
+  line-height: 150%;
 }
 
 #page{
@@ -51,5 +51,10 @@ h2{
 h1, h2{
   color: #291B1A;
   margin-bottom: 4px;
+  line-height: 150%;
+}
+
+ul {
+  padding-left: 25px; 
 }
 
